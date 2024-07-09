@@ -1,3 +1,5 @@
+
+Web3 Crypto Wallet Extension
 I developed a fully functional Web3 Crypto Wallet Extension designed to revolutionize the way users interact with digital assets by allowing them to transfer, deposit, and swap cryptocurrencies seamlessly. This extension leverages a variety of cutting-edge technologies to ensure security, efficiency, and an outstanding user experience.
 
 Key Features:
