@@ -9,6 +9,16 @@ I developed a fully functional Web3 Crypto Wallet Extension designed to revoluti
 - **Transfer Crypto:** Securely send and receive various cryptocurrencies with real-time transaction tracking.
 - **Deposit Funds:** Easily deposit funds into the wallet, supporting multiple cryptocurrency types.
 - **Swap Coins:** Swap between different cryptocurrencies directly within the wallet.
+- 
+In developing and deploying my Web3 Crypto Wallet Extension, AWS was essential for creating a secure, scalable, and efficient environment.
+Built a fully functional Web3 Crypto Wallet Extension: Enabled users to transfer, deposit, and swap crypto coins seamlessly.
+
+**AWS Elastic Beanstalk**: Deployed the backend (Node.js and Express.js) using Elastic Beanstalk, which managed infrastructure, load balancing, and auto-scaling, allowing focus on application development.
+**AWS Amplify**: Utilized Amplify to deploy and host the React frontend, providing continuous integration and deployment (CI/CD) support for seamless updates.
+**Amazon S3**: Stored and managed static assets like images and CSS files, ensuring fast access with minimal latency.
+**Amazon CloudFront**: Integrated CloudFront to deliver static assets via a global content delivery network (CDN), improving performance and user experience.
+**Amazon RDS**: Used RDS to securely host and manage the application's data, ensuring scalability and efficient access to user data and transaction histories.
+**Technologies used**: Ethers, Node.js, React, Express.js, JavaScript, HTML, CSS were employed to develop the extension, ensuring a robust and responsive application.
 
 #### Disruptive Technologies and Innovations:
 - **Ethers.js:** Facilitates interaction with the Ethereum blockchain and smart contracts, enabling secure and efficient transactions.
