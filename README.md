@@ -1,8 +1,6 @@
 
 ![screenshot-localhost_3001-2024_09_20-12_04_08](https://github.com/user-attachments/assets/b43476ec-8af8-4979-b2a6-8e4e3f9bbe0a)
 
-![WhatsApp Image 2024-09-21 at 07 38 40_fc95a046](https://github.com/user-attachments/assets/33f0507f-4bce-44b1-a8bd-f87255588024)
-
 ### Web3 Crypto Wallet Extension
 
 I developed a fully functional Web3 Crypto Wallet Extension designed to revolutionize the way users interact with digital assets by allowing them to transfer, deposit, and swap cryptocurrencies seamlessly. This extension leverages a variety of cutting-edge technologies to ensure security, efficiency, and an outstanding user experience.
