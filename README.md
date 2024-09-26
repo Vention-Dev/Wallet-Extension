@@ -32,6 +32,9 @@ Built a fully functional Web3 Crypto Wallet Extension: Enabled users to transfer
 - **JavaScript, HTML, CSS:** Core web technologies that deliver a polished and professional user experience.
 - **Solidity:** Smart contract language that handles blockchain transactions and token swaps with precision and security.
 
+  ![WhatsApp Image 2024-09-21 at 07 38 28_b808e531](https://github.com/user-attachments/assets/7d4f917c-f2a0-49fc-b757-e5a302733b4b)
+
+
 #### Advanced Features for Disruption:
 - **Enhanced Security:**
   - **Biometric Authentication:** Adds an extra layer of security through fingerprint or facial recognition.
